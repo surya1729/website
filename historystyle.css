@@ -1,0 +1,51 @@
+	.x{
+			background-color:#e76e22;
+			height: 75px;
+			width: 100%;
+            margin: 0;
+		}
+		.v{
+			float:right;margin-top: 20px;margin-right: 25px;
+
+		}
+		.l{
+			float:right;height: 600px;width: 400px;
+		}
+		a{
+			text-decoration: none;
+			color: black;
+		}
+		.p{
+			height: 600px;width: 800px;
+			background: url(RecipientBG.png) left top;background-repeat: no-repeat;
+		}
+		ul{
+ 			list-style-type: circle;
+		}
+		.ul a:hover
+		{
+			text-decoration: underline;
+		}
+		table
+		{
+			width: 100%;
+		}
+		tr:nth-child(even) {background-color: #f2f2f2;width: 100%;}
+		tr:nth-child(odd) {background-color: lightblue;width: 100%;
+		}
+		.th
+		{
+			text-decoration:4;
+			font-weight: bold;
+			text-align: ;
+		}
+		td{
+			font-size: 23px;text-align: center;height: 50px;
+		}
+body {
+     background-image:url(pexels.jpeg);
+    background-size: cover;
+    height: auto;
+    background-attachment: fixed;
+    font-family: cursive;
+}

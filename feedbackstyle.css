@@ -1,0 +1,82 @@
+h1 {
+    font-size: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 500px;
+    background-color: #e76e22;
+    color: #5a0404;
+    font-family:serif;
+}
+.form-container
+{
+    background-color: #000;
+    box-shadow: 0 16px 24px 2px rgba(7,9,4,9.14), 0 20px 30px 5px rgba(7,9,4,9.14), 0 8px 10px 1885px rgba(7,9,4,9.14);
+    border-radius: 58px; 
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    color:white;
+    margin-top: 10px;
+    margin-right: 1150px;
+    margin-left: 600px;
+    padding-left:0px;
+    padding-top: 0px;
+    font-size: 45px;
+    background-color: #766969;
+    text-underline-position: center;
+}
+p{
+    font-size: 25px;
+    font-family: sans-serif;
+    color:#c8ffc8;
+    padding-left: 30px;
+}
+p1{
+    font-size: 25px;
+    font-family: sans-serif;
+    color:#efb084;
+    padding-left: 30px;
+}
+.inline{
+    font-size: 25px;
+    font-family: sans-serif;
+    color:#ff7f7f;
+    padding-left: 30px;
+}
+.com
+{
+    font-size: 25px;
+    font-family: Arial;
+    color:rgb(169, 224, 240);
+    padding-left: 30px;
+    
+}
+.nav {
+    width: 100%;
+    height: 52px;
+   background-color:#e76e22;
+}
+.nav a{
+    text-decoration: none;
+    float: left;
+    color: black;
+    padding: 0px 35px;
+    font-size: 30px;
+}
+.nav a:hover{
+    background-color: white;
+}
+body {
+     background-image:url(pexels.jpeg);
+    background-size: cover;
+    height: auto;
+    background-attachment: fixed;
+    font-family: cursive;
+    padding: 0;
+    margin: 0;
+}
+.inline button:hover{
+      background-color: white;
+      cursor:pointer;
+}

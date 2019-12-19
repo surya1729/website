@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+.nav {
+    width: 100%;
+    height: 52px;
+   background-color:#e76e22;
+}
+.nav a{
+    text-decoration: none;
+    float: left;
+    color: black;
+    padding: 14px 26px;
+    font-size: 17px;
+}
+
+.nav a:hover{
+    background-color: white;
+}
+.search{
+    float: right;    
+}
+input[type=text]{
+    padding: 6px;
+    padding-right: 2px;
+    margin-top: 8px;
+    border: none;
+    font-size: 17px;
+    border-radius:10px;
+}
+.search button{
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    margin-right: 16px;
+    border: none;
+    background-color: #ddd;
+    cursor: pointer;
+    transition: 0.6s all;
+    border-radius:10px;
+}
+.search button:hover{
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+}
+h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 550px;
+    background-color: #e76e22;
+    color: black;
+    font-family: monospace;
+}
+body {
+     background-image:url(pexels.jpeg);
+    background-size: cover;
+    height: auto;
+    background-attachment: fixed;
+}
+.hero-text-box {
+    background-color:;
+    padding-left: 50px;
+    color: yellow;
+}
+.drop-box {
+    float: right;
+    margin-top: 5px;
+    margin-right: 350px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 20px;
+    background-color: gold;
+}
+.myaccount 
+{
+    margin-top: 5px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 20px;
+    background-color: gold;
+}
